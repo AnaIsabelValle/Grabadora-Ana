@@ -1,0 +1,1 @@
+"Mi primer proyecto de React Native, una grabadora"
